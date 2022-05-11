@@ -1,0 +1,27 @@
+.titulo{
+    font-size: 56px;
+    text-align: center;
+}
+.chamada{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+ol{
+    font-size: 20px;
+}
+a.link-materia:link{
+    font-size: 12px;
+    color: red;
+    text-decoration: none;
+}
+a.link-materia:visited{
+    font-size: 12px;
+    color: red;
+}
+a.link-materia:hover{
+    font-size: 13px;
+    color: crimson;
+    transition: 1.5s;
+}
